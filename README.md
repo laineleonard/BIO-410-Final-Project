@@ -3,7 +3,7 @@
 The data consist of six samples from the organism ________. This organism is a _____ which ______. (cite)
 
 ## Purpose
-the purpose of this project was to create a phylogenic tree from 6 samples of _______ in order to determine  the evolutionart
+The purpose of this project was to create a phylogenic tree from 6 samples of _______ in order to determine  the evolutionart
 
 ## Methods
 include information about
