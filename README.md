@@ -15,7 +15,7 @@ include information about
 
 (example- the assembled reads are in _____ (file) and raw seuences are in ____ (some folder with your name)
 
-##Results
+## Results
 here is the tree
 (insert image, see the markdown cheatsheet) 
 
