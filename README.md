@@ -11,9 +11,7 @@ include information about
 -Assembly using MEGAHIT (provide link to megahit website)
 -alignment using R package DECIPHER
 -tree using ML in R package DECIPHER
--for each source of data, state which files/folders in the repository correspond to those data. Raw sequences are in the .fq file and the assembles sequences are in the 
-
-(example- the assembled reads are in _____ (file) and raw seuences are in ____ (some folder with your name)
+-for each source of data, state which files/folders in the repository correspond to those data. Raw sequences and assembled  are in the .fq files
 
 ## Results
 here is the tree
