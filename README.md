@@ -16,7 +16,7 @@ include information about
 ## Results
 here is the tree
 (insert image, see the markdown cheatsheet) 
-
+	![alt text](Rplot.png)
 explain
 -which samples are closley relates 
 how many individuals did these 6 samples come from based in the phylogenetic tree
