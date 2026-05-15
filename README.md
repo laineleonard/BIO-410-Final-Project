@@ -19,4 +19,4 @@ here is the tree
 	![alt text](Rplot.png)
 explain
 -which samples are closley relates 
-how many individuals did these 6 samples come from based in the phylogenetic tree
+-how many individuals did these 6 samples come from based in the phylogenetic tree
