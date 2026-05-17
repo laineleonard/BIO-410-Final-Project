@@ -3,7 +3,7 @@
 The data consist of six samples from the organism ________. This organism is a _____ which ______. (cite)
 
 ## Purpose
-The purpose of this project was to create a phylogenic tree from 6 samples of _______ in order to determine  the evolutionary relationships between the samples.
+The purpose of this project was to create a phylogenic tree from 6 samples of Zaire ebolavirus in order to determine  the evolutionary relationships between the samples.
 
 ## Methods
 include information about
