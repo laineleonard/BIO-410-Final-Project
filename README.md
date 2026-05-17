@@ -16,6 +16,6 @@ include information about
 Here is the phylogenetic tree:
 (insert image, see the markdown cheatsheet) 
 	![alt text](Rplot.png)
-explain
--which samples are closley relates 
--how many individuals did these 6 samples come from based in the phylogenetic tree
+	
+Explain:
+The phylogenetic tree analysis showed revealed two lineages of the Ebola virus. Samples 1,2,4,6,7 are clustered together, indicating high genetic similarity and suggesting they originated from a closley realted lineage. In contrast, samples 3 and 5 show a greater evolutionary distance from the other samples. The pattern indicates a high sequence similarity and close evolutionary relatedness among these Zaire ebolavirus isolates.
