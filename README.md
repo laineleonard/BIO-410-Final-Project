@@ -7,7 +7,8 @@ The purpose of this project was to create a phylogenic tree from 6 samples of Za
 
 ## Methods
 include information about
-- sequencing reads (NGS process)
+- Next-Generation Sequencing (NGS)
+- The samples were sequenceed using NGS to generate ___ sequence data. Raw sequencing reads for each sample are provided in the repository as .fq files. As they contain the original unprocessed reads.
 - Assembly using MEGAHIT (provide link to megahit website)
 - alignment using R package DECIPHER
 - tree using ML in R package DECIPHER
