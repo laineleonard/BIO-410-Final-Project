@@ -1,6 +1,9 @@
 # BIO-410-Final-Project
 ## Background
-The data consist of six samples from the organism Zaire ebolavirus. This organism is a virus which ______. (cite)
+The data consist of six samples from the organism Zaire ebolavirus. This organism is a virus which ______. (Kadanali et al., 2015)
+
+Citation: 
+Kadanali, A., & Karagoz, G. (2015). An overview of Ebola virus disease. Northern clinics of Istanbul, 2(1), 81–86. https://doi.org/10.14744/nci.2015.97269
 
 ## Purpose
 The purpose of this project was to create a phylogenic tree from 6 samples of Zaire ebolavirus in order to determine  the evolutionary relationships between the samples.
