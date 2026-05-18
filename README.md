@@ -1,8 +1,9 @@
 # BIO-410-Final-Project
 ## Background
-The data consist of six samples from the organism Zaire ebolavirus. This organism is a virus which ______. (Kadanali et al., 2015)
+The data consist of six samples from the organism Zaire ebolavirus. The Ebola virus disease (EVD), is also known as Ebola hemmori fever and this is a fatal illness in humans Ebola virus is transmittd thorugh contact with blood or bodily fluids of a individual who contacted or dies from EVD, contaminated objects like needles and infected animals or meat. (Kadanali et al., 2015)
 
 Citation: 
+
 Kadanali, A., & Karagoz, G. (2015). An overview of Ebola virus disease. Northern clinics of Istanbul, 2(1), 81–86. https://doi.org/10.14744/nci.2015.97269
 
 ## Purpose
@@ -10,8 +11,9 @@ The purpose of this project was to create a phylogenic tree from 6 samples of Za
 
 ## Methods
 include information about
-- Next-Generation Sequencing (NGS): the samples were sequenceed using NGS to generate ___ sequence data. Raw sequencing reads for each sample are provided in the repository as .fq files. As they contain the original unprocessed reads.
-- Assembly using MEGAHIT (provide link to megahit website): raw sequencied were assembled into contigs using MEGAHIT. This is designed for assembling large and complex datasets for each sample.
+- Next-Generation Sequencing (NGS): the samples were sequenceed using NGS to generates high-throughout sequence data. Raw sequencing reads for each sample are provided in the repository as .fq files. As they contain the original unprocessed reads.
+- Assembly using MEGAHIT (https://github.com/voutcn/megahit/releases/download/v1.2.9/MEGAHIT-1.2.9-Linux-x86_64-static.tar.gz
+tar zvxf MEGAHIT-1.2.9-Linux-x86_64-static.tar.gz): raw sequences were assembled into contigs using MEGAHIT. This is designed for assembling large and complex datasets for each sample.
 - Alignment using R package DECIPHER: multiple alignemnt was preformed un R using DECIPHER, the contig sequences generated from the assembly setp and imported into R and aligned. The alignment identified homologus regions among the seqences and prepares data for phylogenetic analysis.
 - Tree using ML in R package DECIPHER: the phylogenetic relationships among the sequences used maximum likelihood (ML). The aligned sequences were generated during the DECIPHER alignment and used to construct the ML phylogenetic tree. This tree evaluates the evolutionary relationships and sequences similarity among the 6 samples. The assembles sequence dataset are provided in the repository as .fq file.
 
