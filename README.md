@@ -28,4 +28,4 @@ Here is the phylogenetic tree:
 	![alt text](Rplot.png)
 	
 Explain:
-The phylogenetic tree analysis showed revealed two lineages of the Ebola virus. Samples 1,2,4,6,7 are clustered together, indicating high genetic similarity and suggesting they originated from a closley realted lineage. In contrast, samples 3 and 5 show a greater evolutionary distance from the other samples. The pattern indicates a high sequence similarity and close evolutionary relatedness among these Zaire ebolavirus isolates.
+The phylogenetic tree analysis showed revealed two lineages of the Ebola virus. Samples 1,2,4,6,7 are clustered together, indicating high genetic similarity and suggesting they originated from a closley realted lineage. In contrast, samples 3 and 5 show a greater evolutionary distance from the other samples. The pattern indicates a high sequence similarity and close evolutionary relatedness among these Zaire ebolavirus isolates. During the alignment, I got 7 results from the 6 input samples in R studio this might happen if the sequence got duplicated or if the sequence got read twice.
