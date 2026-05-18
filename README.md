@@ -1,6 +1,6 @@
 # BIO-410-Final-Project
 ## Background
-The data consist of six samples from the organism Zaire ebolavirus. The Ebola virus disease (EVD), is also known as Ebola hemmorhagic fever and this is a fatal illness in humans Ebola virus is transmittd thorugh contact with blood or bodily fluids of a individual who contacted or dies from EVD, contaminated objects like needles and infected animals or meat. (Kadanali et al., 2015)
+The data consist of six samples from the organism Zaire ebolavirus. The Ebola virus disease (EVD), is also known as Ebola hemmorhagic fever and this is a fatal illness in humans Ebola virus is transmitted thorugh contact with blood or bodily fluids of a individual who contacted or dies from EVD, contaminated objects like needles and infected animals or meat. (Kadanali et al., 2015)
 
 Citation: 
 
