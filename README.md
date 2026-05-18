@@ -20,7 +20,7 @@ tar zvxf MEGAHIT-1.2.9-Linux-x86_64-static.tar.gz):Raw sequences were assembled 
   
 - Tree using ML in R package DECIPHER:The phylogenetic relationships among the sequences used maximum likelihood (ML). The aligned sequences were generated during the DECIPHER alignment and used to construct the ML phylogenetic tree. This tree evaluates the evolutionary relationships and sequences similarity among the 6 samples. The assembles sequence dataset are provided in the repository as .fq file.
   
-- The R script can be found in the .pdf file and the alignment from BroweseSeqs can be found in the .htmml file.
+- The R script can be found in the .pdf file and the alignment from BroweseSeqs can be found in the .html file.
 
 ## Results
 Here is the phylogenetic tree:
